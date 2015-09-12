@@ -1,0 +1,23 @@
+﻿<? 
+$_lang ['binary'] = 'Двійковий';
+$_lang ['binary_desc'] = 'Файл двійковий або text / ascii?';
+$_lang ['content_type'] = 'Тип вмісту';
+$_lang ['content_type_desc'] = 'Тип вмісту для ресурсів - це те, що MODX відправлятиме в рядку «Content-Type» заголовка серверу. Тут ви можете керувати типами і зіставляти з розширеннями файлів (MODX буде додавати розширення файлу після псевдоніма, якщо включені дружні URL). ';
+$_lang ['content_type_err_nf'] = 'Тип вмісту не знайдений.';
+$_lang ['content_type_err_nfs'] = 'Тип вмісту з ID [[+ id]] не знайдено.';
+$_lang ['content_type_err_ns'] = 'Тип вмісту не вказаний.';
+$_lang ['content_type_err_ns_name'] = 'Будь ласка, вкажіть коректне ім\'я для типу вмісту.';
+$_lang ['content_type_err_create'] = 'Виникла помилка при спробі створити тип вмісту.';
+$_lang ['content_type_err_in_use'] = 'Ви не можете видалити цей тип контенту, так як він використовується ресурсами. Призначте нові типи контенту для цих ресурсів перш ніж продовжити. ';
+$_lang ['content_type_err_remove'] = 'Виникла помилка при спробі видалити тип вмісту.';
+$_lang ['content_type_err_save'] = 'Виникла помилка при спробі зберегти тип вмісту.';
+$_lang ['content_type_header'] = 'Заголовок';
+$_lang ['content_type_main_tab'] = 'Основне';
+$_lang ['content_type_header_tab'] = 'Користувальницькі заголовки';
+$_lang ['content_type_header_title'] = 'Створити / редагувати заголовок';
+$_lang ['content_type_new'] = 'Новий тип вмісту';
+$_lang ['content_type_remove'] = 'Видалити';
+$_lang ['content_type_remove_confirm'] = 'Ви впевнені, що хочете видалити цей тип?';
+$_lang ['content_types'] = 'Типи вмісту';
+$_lang ['file_extensions'] = 'Розширення файлу';
+$_lang ['file_extensions_desc'] = 'Розширення файлу для цього типу вмісту.';

@@ -1,0 +1,27 @@
+﻿<? 
+$_lang ['context'] = 'Контекст';
+$_lang ['context_add'] = 'Додати контекст';
+$_lang ['context_create'] = 'Створити контекст';
+$_lang ['context_data'] = 'Дані контексту';
+$_lang ['context_duplicate'] = 'Копіювати';
+$_lang ['context_err_ae'] = 'Контекст з таким ім\'ям вже існує.';
+$_lang ['context_err_create'] = 'При створенні контексту сталася помилка.';
+$_lang ['context_err_duplicate'] = 'Виникла помилка при спробі копіювання контексту.';
+$_lang ['context_err_load_data'] = 'Помилка завантаження даних контексту.';
+$_lang ['context_err_nf'] = 'Контекст не знайдено!';
+$_lang ['context_err_nfs'] = 'не знайдено контекст по ключу: [[+ key]]';
+$_lang ['context_err_ns'] = 'Контекст не зазначений.';
+$_lang ['context_err_ns_key'] = 'Будь ласка, вкажіть дійсний ключ для контексту.';
+$_lang ['context_err_remove'] = 'Виникла помилка при видаленні контексту.';
+$_lang ['context_err_save'] = 'Сталася помилка при збереженні контексту.';
+$_lang ['context_id'] = 'ID контексту';
+$_lang ['context_key'] = 'Ключ контексту';
+$_lang ['context_management_message'] = 'Управління контекстами сайту.';
+$_lang ['context_refresh'] = 'Оновити';
+$_lang ['context_remove'] = 'Видалити';
+$_lang ['context_remove_confirm'] = 'Ви впевнені, що хочете видалити цей контекст? Контекст буде видалено назавжди. ';
+$_lang ['context_settings'] = 'Налаштування контексту';
+$_lang ['context_settings_desc'] = 'Тут ви можете вказати настройки для цього контексту. Вони будуть перевизначати настройки зазначені в настройках системи. ';
+$_lang ['context_update'] = 'Редагувати';
+$_lang ['context_with_key_not_found'] = 'Контекст з ключем% s не знайдено!';
+$_lang ['contexts'] = 'Контексти';

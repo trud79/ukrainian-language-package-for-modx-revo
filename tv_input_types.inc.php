@@ -1,0 +1,19 @@
+﻿<? 
+$_lang ['autotag'] = 'Авто-мітка';
+$_lang ['text'] = 'Текст';
+$_lang ['textarea'] = 'Текстова область';
+$_lang ['textareamini'] = 'Текстова область (міні)';
+$_lang ['richtext'] = 'Текстовий редактор';
+$_lang ['dropdown'] = 'Список, що випадає';
+$_lang ['listbox'] = 'Список (одиночний вибір)';
+$_lang ['listbox-multiple'] = 'Список (множинний вибір)';
+$_lang ['list-multiple-legacy'] = 'Застарілий список множинного вибору';
+$_lang ['option'] = 'Перемикачі (radio)';
+$_lang ['checkbox'] = 'Прапорці (checkbox)';
+$_lang ['image'] = 'Зображення';
+$_lang ['file'] = 'Файл';
+$_lang ['url'] = 'URL';
+$_lang ['email'] = 'Адреса електронної пошти';
+$_lang ['number'] = 'Кількість';
+$_lang ['date'] = 'Дата';
+$_lang ['tag'] = 'Мітка';

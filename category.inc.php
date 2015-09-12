@@ -1,0 +1,23 @@
+﻿<? 
+$_lang ['categories'] = 'Категорії';
+$_lang ['category_confirm_delete'] = 'Ви впевнені що хочете видалити цю категорію? Всі елементи в ній будуть позначені як & laquo; Без категорії & raquo;. ';
+$_lang ['category_create'] = 'Створити категорію';
+$_lang ['category_err_ae'] = 'Категорія з таким ім\'ям вже існує. Оберіть інше ім\'я. ';
+$_lang ['category_err_create'] = 'Виникла помилка при створенні категорії.';
+$_lang ['category_err_not_found'] = 'Категорія не знайдена!';
+$_lang ['category_err_nf'] = 'Категорія не знайдена.';
+$_lang ['category_err_nfs'] = 'Категорія не знайдена за запитом:% s';
+$_lang ['category_err_ns'] = 'Категорія не вказана.';
+$_lang ['category_err_ns_name'] = 'Будь ласка, вкажіть правильну назву категорії.';
+$_lang ['category_err_remove'] = 'Виникла помилка при видаленні категорії.';
+$_lang ['category_err_save'] = 'Сталася помилка при збереженні категорії.';
+$_lang ['category_existing'] = 'Існуюча категорія';
+$_lang ['category_heading'] = 'Категорія';
+$_lang ['category_msg'] = 'Тут ви можете переглядати і редагувати всі ресурси, згруповані за категоріями.';
+$_lang ['category_no_chunks'] = 'У цій категорії немає чанків.';
+$_lang ['category_no_plugins'] = 'У цій категорії немає полігонів.';
+$_lang ['category_no_snippets'] = 'У цій категорії немає сніпетів.';
+$_lang ['category_no_templates'] = 'У цій категорії немає шаблонів.';
+$_lang ['category_no_template_variables'] = 'У цій категорії немає додаткових полів.';
+$_lang ['category_rename'] = 'Перейменувати';
+$_lang ['category_remove'] = 'Видалити';

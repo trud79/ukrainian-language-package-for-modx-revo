@@ -1,0 +1,25 @@
+﻿<? 
+$_lang ['action'] = 'Дія';
+$_lang ['action_confirm_remove'] = 'Ви впевнені, що хочете видалити цю дію? Це може порушити роботу бекенда MODX. ';
+$_lang ['action_create'] = 'Додати дію';
+$_lang ['action_create_here'] = 'Додати дію';
+$_lang ['action_desc'] = '«Дії» - це абстракції контролерів. Вони можуть бути використані для створення користувацьких сторінок (<a href="http://rtfm.modx.com/display/revolution20/Custom+Manager+Pages"> CMP </a>). ';
+$_lang ['action_err_create'] = 'Виникла помилка при створенні дії.';
+$_lang ['action_err_nf'] = 'Дію не знайдено!';
+$_lang ['action_err_ns'] = 'Дію не вказано!';
+$_lang ['action_err_remove'] = 'Виникла помилка при видаленні дії.';
+$_lang ['action_err_save'] = 'Сталася помилка при збереженні дії.';
+$_lang ['action_none'] = 'Немає дій';
+$_lang ['action_parent_err_nf'] = 'Батьківська дія не знайдена!';
+$_lang ['action_parent_err_ns'] = 'Батьківську дію не вказано!';
+$_lang ['action_place_here'] = 'Додати пункт меню';
+$_lang ['action_remove'] = 'Видалити';
+$_lang ['action_update'] = 'Редагувати';
+$_lang ['actions'] = 'Дії';
+$_lang ['controller'] = 'Контролер';
+$_lang ['controller_err_ae'] = 'Вже існує контролер з таким шляхом для цього простору імен.';
+$_lang ['controller_err_nf'] = 'Файл контролера не найдено!';
+$_lang ['controller_err_ns'] = 'Контролер не вказано!';
+$_lang ['controller_parent'] = 'Батьківський контролер';
+$_lang ['lang_topics'] = 'Мовні теми';
+$_lang ['lang_topics_desc'] = 'Це список рядків які представляють теми словника, які ця дія повинна завантажити.';
